@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alejandro Parra</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-- 💬 Ask me about **javascript, node.js, express, mongodb, mysql**
+- 💬 Ask me about **python, django, node.js, express, mongodb, mysql**
 
-- 📫 How to reach me **admin@alejandroparrapro.com**
+- 📫 How to reach me **alejandropamo646@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
